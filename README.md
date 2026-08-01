@@ -1,4 +1,4 @@
-# Lab 14: Recurrent Neural Networks & Sequence Data
+#  Recurrent Neural Networks & Sequence Data
 ## Complete Beginner's Guide — Movie Review Sentiment Classification with LSTM/GRU
 
 ---
